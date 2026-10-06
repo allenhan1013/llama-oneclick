@@ -1,0 +1,14 @@
+# llama.cpp binaries, DLLs, and models (put your own .gguf files here)
+models/
+*.gguf
+*.dll
+*.exe
+*.ini.bak
+
+# Logs
+*.log
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
